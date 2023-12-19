@@ -99,6 +99,3 @@ CreateOrder()
   });
 
 console.log("HAPPY SHOPPING");
-// git remote add origin https://github.com/bhatimoh/NamasteJavascriptPractice.git
-// git branch -M main
-// git push -u origin main
